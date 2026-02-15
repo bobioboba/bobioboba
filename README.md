@@ -60,14 +60,3 @@
   <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
   <img width="12" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bobioboba&theme=radical&no-frame=false&disable_animations=false&locale=en&no-bg=false&hide_border=false&count_private=true&show_icons=true&mode=daily" alt="trophys"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=bobioboba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=bobioboba&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bobioboba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
